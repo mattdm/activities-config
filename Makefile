@@ -1,7 +1,7 @@
 # Activities Configurator Makefile
 
-# Before making zip file insure all changes have been commited.
-# README.txt modified to indicate the date and time the zip file was
+# Before making zip file insure all changes have been committed.
+# README.txt is modified to indicate the date and time the zip file was
 # created and the current git commit.  VERSION should be set to the
 # current extension version.
 
